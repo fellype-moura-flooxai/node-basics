@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/fellype-moura-flooxai/node-basics#readme",
   "dependencies": {
+    "body-parser": "^2.2.0",
     "consign": "^0.1.6",
     "express": "^4.21.2"
   }
